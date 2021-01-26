@@ -14,8 +14,7 @@ organizations:
   url: https://www.imse.iastate.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: interest in Additive Manuefacturing, Statistical Analysis, Machine learning
-
+bio: AI don't know what we need; we don't know what AI is doing
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
