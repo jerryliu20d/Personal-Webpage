@@ -18,21 +18,22 @@ bio: AI don't know what we need; we don't know what AI is doing
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Additive Manuefacturing
+- Machine Learning
+- Optimization
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Industrial and Manufacturing Systems Engineering
+    institution: Iowa State University
+    year: 2020 ~ present
+  - course: M.S. in Statistics
+    institution: University of Wisconsin - Madison
+    year: 2017 ~ 2019
+  - course: B.S. in Financial Engineering
+    institution: East China Normal University
+    year: 2014 ~ 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,18 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jerryliu20d
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jerryll/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
