@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Industrial and Manufacturing Systems Engineering
+  - course: Ph.D. in Industrial and Manufacturing Systems Engineering
     institution: Iowa State University
     year: 2020 ~ present
   - course: M.S. in Statistics
@@ -70,8 +70,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+I am interested in artificial intelligence, additive manufacturing, machine learning, and optimization. I am a Ph.D. candidate of Industrial and Manufacturing Systems Engineering at Iowa State University, and I am very fortunate to be advised by Dr. [Qing Li](https://www.imse.iastate.edu/qing-li/). Before that, I received Bachelor's degree from the School Of Statistics at East China Normal University. Then I received the Master of Science in Statistics at the University of Wisconsin-Madison. After that, I expected to applied theoretical statistical and mathematical knowledge to practical. It is the motivation I pursued a Ph.D. degree in a new field - Industrial Engineering at ISU. Currently, I am working on statistical analysis on Additive Manufacturing products.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
