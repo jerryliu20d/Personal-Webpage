@@ -24,7 +24,7 @@ author_notes: []
 doi: ""
 publication: "Communications in Statistics Part B: Simulation and Computation"
 projects: []
-date: 2021-01-28T04:09:14.222Z
+date: 2019-01-28T04:09:00.000Z
 url_slides: ""
 publishDate: "2019"
 url_poster: ""
