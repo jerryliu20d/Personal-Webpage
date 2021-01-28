@@ -28,7 +28,7 @@ experience:
     location: University of Wisconsin-Madison
     date_start: '2019-11'
     date_end: '2020-05'
-    description: 
+    description: Statistical analysis on driving safety of autonomous vehicle
         
   - title: Quantitative Analyst
     company: Quant Investment Company
@@ -36,5 +36,5 @@ experience:
     location: Shanghai, China
     date_start: '2018-06'
     date_end: '2018-09'
-    description: 
+    description: constructing market factors and building a portfolio to hedge the risk
 ---
