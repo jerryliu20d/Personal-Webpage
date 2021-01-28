@@ -26,15 +26,15 @@ experience:
     company: Traffic Operations and Safety Laboratory
     company_url: 'https://topslab.wisc.edu/'
     location: University of Wisconsin-Madison
-    date_start: '2019-11'
-    date_end: '2020-05'
+    date_start: '2019-11-01'
+    date_end: '2020-05-01'
     description: Statistical analysis on driving safety of autonomous vehicle
         
   - title: Quantitative Analyst
     company: Quant Investment Company
     company_url: 'http://www.quantinv.com/'
     location: Shanghai, China
-    date_start: '2018-06'
-    date_end: '2018-09'
+    date_start: '2018-06-01'
+    date_end: '2018-09-01'
     description: constructing market factors and building a portfolio to hedge the risk
 ---
